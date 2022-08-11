@@ -1,6 +1,6 @@
 # google
 Google Course
 
-X
-I am editing the README file. Adding some more details about the project description.
 
+I am editing the README file. Adding some more details about the project description.
+estoy editando el readme
